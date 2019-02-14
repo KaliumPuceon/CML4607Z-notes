@@ -25,6 +25,14 @@ Test: April 8 1800
 
 Assignment: April 30
 
+# Source of Law
+* Supreme source of law is the Constitution
+* Other sources are:
+    * Common Law
+        * Decided and adjusted by judicial system
+    * Statutes
+        * Created by parliament
+
 # Labour Law
 * To whom does labour law apply
     * Employed Workers
@@ -97,3 +105,13 @@ investment allows for negotiating the contract
     * Communicates with the ECSA
     * Considered conflict with the employer
     * When is whistleblowing allowed?
+
+# Institutions
+
+## CCMA
+* Commission for Conciliation, Mediation and Arbitration
+* Responsible for mediation above company level
+    * Below this is Bargaining Councils, then in-house arbitration
+* Action from CCMA can be requested within 30 days of wrongdoing
+* Responsible for finding agreements between groups without a court
+* Independent entity
