@@ -35,7 +35,7 @@ Assignment: April 30
 
 # Labour Law
 * To whom does labour law apply
-    * Employed Workers
+    * Employed Workers < Employee
     * NOT Unemployed Workers
     * NOT Contract Workers
 * Employed Workers have labour rights inherently
@@ -61,11 +61,19 @@ Assignment: April 30
 * Cannot be signed away
 
 ## Employee rights
+
+These are the rights and obligations related to:
+
 1. Individual rights e.g.
     * Unfair Dismissal
 2. Collective rights
+    * Right to organize
+    * Unions, Striking, etc.
 3. Anti-discrimination rights
 4. Social security rights
+    * Health and Safety
+    * Accident cover
+    * Unemployment Protection/Insurance
 
 # Scenario 1
 * A student charged with possession of drugs
