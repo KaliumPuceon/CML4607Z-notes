@@ -9,7 +9,7 @@ subtitle:
     - Week 1
 
 institute:
-    - "University of Cape Town"
+    - University of Cape Town
 
 header-includes:
     - \usepackage{graphicx}
