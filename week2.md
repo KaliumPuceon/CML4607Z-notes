@@ -31,11 +31,17 @@ Conclusion
 * Labour law is often solved backwards from the idea of fairness
 * e.g. Requirements may be different for small and large businesses
 
+# Modern South African Law
+* Common Law is based on Roman-Dutch Law
+* Common Law is drawn from court decisions
+* Statutary Law is passed by Parliament
+* Higher courts can make decisions that bind lower courts
+
 # Back to labour Law
 
 ## Probation is allowed If Reasonable
 * Useful to test if an employee is suitable
-* Chose as appropriate to the job
+* Chosen as appropriate to the job
 * Must be advised and assisted during this time
 
 ## Styles of bargaining
@@ -99,15 +105,27 @@ Example contract: Gazer
     * Act on behalf of themselves
     * Agent of other partner
     * Authority: Partners have authority within partnership
+        * Actual Authority
+            * Partner has the authority to bind the partnership
+            * Requires permission from other partners
         * Tacit Authority
-            * Authority to bind contracts
-            * Within scope of partnership business
+            * Authority to bind partnership to contracts
+            * Within scope of partnership agreement
             * Third party is bound to partnership
+            * Third party is not aware of any limitations
         * Ostensible Authority
-            * Partner appears but does not have authority
-            * Cannot bind third parties to terms of partnership
+            * A partner appears to have binding authority
+            * The partnership is bound to the contract
+            * estoppel: Prevents the true state of affairs affecting liability
+            * Relies on prior action creating an appearance of authority
+* CC Act
+    * Every member is an agent of the CC
+    * Members may bind CC without power if third party is unaware
+        * Even outside sphere of business
+    * Principal is the CC itself
 
 ## Agency
+* Drawn from Common Law
 * Representatives
     * Agents act on behalf of others
     * Principal is party to contract, agent is not
@@ -116,4 +134,5 @@ Example contract: Gazer
     * Agent may have greater capacity than principal
     * Principal 
     * Agent is representative
+
 
