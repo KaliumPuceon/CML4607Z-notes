@@ -74,6 +74,12 @@ Example contract: Gazer
 * Gazer is a finance startup
 * Business is administered through Start-Up CC
 * Agreement to produce product for A*
+* Contract is being made between:
+    * Managing Director of Artinell
+        * Authority from MoI
+        * Should be determined in Due Diligence
+    * Managing Member of Start Up CC
+        * Inherent Authority to bind CC
 
 ## Contracts
 * Marks consensus to the contract
@@ -116,6 +122,7 @@ Example contract: Gazer
             * Third party is not aware of any limitations
         * Ostensible Authority
             * A partner appears to have binding authority
+                * Appearance of authority is due to actions of entity
             * The partnership is bound to the contract
             * estoppel: Prevents the true state of affairs affecting liability
             * Relies on prior action creating an appearance of authority
