@@ -82,13 +82,13 @@ Example contract: Gazer
         * Inherent Authority to bind CC
 
 ## Contracts
-* Marks consensus to the contract
-* Must be legal
-* Must be possible/performable
+1. Marks consensus to the contract
+2. Must be legal
+3. Must be possible/performable
     * Must be able to be completed
     * At time of signing
-* Formalities are agreed upon
-* Capacity of parties to contract
+4. Formalities are agreed upon
+5. Capacity of parties to contract
     * e.g. minors may not contract
     * includes Legal and Natural persons
     * Levels of capacity are:
