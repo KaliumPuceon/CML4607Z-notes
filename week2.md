@@ -122,7 +122,7 @@ Example contract: Gazer
             * Third party is not aware of any limitations
         * Ostensible Authority
             * A partner appears to have binding authority
-                * Appearance of authority is due to actions of entity
+            * Appearance of authority is due to actions of entity
             * The partnership is bound to the contract
             * estoppel: Prevents the true state of affairs affecting liability
             * Relies on prior action creating an appearance of authority

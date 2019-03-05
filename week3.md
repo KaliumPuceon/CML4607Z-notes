@@ -46,6 +46,7 @@ A contract is founded on an Agreement:
     * silence *may* be acceptance in specific circumstance
 * Acceptance must be communicated in the manner prescribed
     * Contract is concluded when and where the offerer learns of acceptance
+* In term-by-term contracts, indvidual parts may be left unaccepted
 
 ## Contracts concluded without authority
 
