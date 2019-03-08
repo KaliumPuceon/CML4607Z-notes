@@ -16,7 +16,9 @@ header-includes:
     - \usepackage{fullpage}
 ---
 
-# Misrepresentation
+# Voidable Contracts
+
+## Misrepresentation
 * A false statement of fact made by one party to another before or when a
   contract is made
 * Makes the agreement voidable by the offended party
@@ -31,11 +33,11 @@ header-includes:
         * Through prior conduct
         * Through changed circumstances
 
-## Remedy for Misrepresentation
+### Remedy for Misrepresentation
 * Rescind the agreement
 * Remunerate Damages
 
-# Duress
+## Duress
 * Threat of evil
 * Contract is voidable if:
     * Threat is made of "imminent or inevitable evil"
@@ -45,14 +47,14 @@ header-includes:
     * Threat induces agreement to the contract
     * There is a clear objection made to threats against property
 
-# Undue Influence
+## Undue Influence
 * One person exercises influence over another
 * Influence weakens the will of the other
 * Person uses influence to make a contract that is:
     * To their detriment
     * Would not have been entered into without influence
 
-# Illegality
+## Illegality
 * If the agreement is to be illegal, is it voidable?
     * Depends on legislation and/or interpretation
 * Nature of the agreement itself
@@ -66,3 +68,18 @@ header-includes:
     * Sexual immorality
     * Conflict with the constitution
     * Unconscionable/Unfair agreements
+
+# Example case
+* Start-up ltd. has employed Thabo as a manager
+    * Thabo is also in charge of finding new engineers
+* Sarah is negotiating sale of an app to Start-up
+    * All persons selling ideas must set out ideas in a form
+    * Thabo will determine if the app is feasible but the company has final say
+* An agreement is reached between Thabo and Sarah, with payment in 6 weeks
+* The payment is not forthcoming, as the company has decided not to proceed
+    * Claim there is no contract, as Thabo does not have authority
+
+* Estoppel requires
+    * Representation of principal to third party by agent with authority
+    * 3rd party acted on the strength of that representation
+    * 3rd party must have reasonable reliance on the misrepresentation
