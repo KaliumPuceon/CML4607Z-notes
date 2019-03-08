@@ -83,3 +83,8 @@ header-includes:
     * Representation of principal to third party by agent with authority
     * 3rd party acted on the strength of that representation
     * 3rd party must have reasonable reliance on the misrepresentation
+
+1. Identify issue at hand
+2. Identify principles
+3. Apply principles
+(See FIRAC week2.md)
