@@ -6,7 +6,7 @@ title:
     - Law for Engineers
 
 subtitle:
-    - Week 3
+    - Week 4
 
 institute:
     - University of Cape Town
