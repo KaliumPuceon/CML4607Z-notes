@@ -29,6 +29,7 @@ header-includes:
 * Trademarks
     * Names, Logos, Shapes or Patterns
     * Used to distinguish goods and services
+    * Trademarks belong to N of 45 different collision classes
 * Trade Secrets 
     * Secrets
     * Limited by unlawful competition laws
